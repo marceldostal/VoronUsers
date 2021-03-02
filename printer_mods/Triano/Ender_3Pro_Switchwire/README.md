@@ -89,4 +89,12 @@ This mod uses a combination of original Switchwire and modified parts.  Most of 
 
 ** Denotes STL files that have not been modified from the baseline Switchwire design
 
+#  Ender 3 (OG)
 
+I added grills that fit the original Ender 3 and extended the deck panels. The BOM screen can be used with the grills.
+The old ender3 psu does not fit und the deck, i used an Meanwell RSP-320-24 (MW LRS 350-24 is not allowed in Europe)
+For the power socket i have used this one [link](https://www.reichelt.de/kaltgeraetestecker-mit-schalter-snap-in-km-01-1105-p44537.html?&nbc=1), so maybe you have to change the rear grill to fit yours 
+
+The y-axis, chain holders for y and z are from [Gizzle](https://github.com/Gizzzle/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire) i just changed them to fit Igus Chains.
+
+Link to the [Skr 1.4 mount](https://www.thingiverse.com/thing:3351746) i used.
